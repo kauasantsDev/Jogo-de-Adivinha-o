@@ -1,2 +1,2 @@
 # Jogo de Adivinhação
-Meu primeiro repositório de um mini projeto em python. 
+Meu primeiro repositório de Git e GitHub de um mini projeto em python. 
